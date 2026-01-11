@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ome r</h1>
+<h1 align="center">Hey, I'm Omer</h1>
 <h3 align="center">Software Engineer, Co-Founder of Pocketsflow.com</h3>
 
 
